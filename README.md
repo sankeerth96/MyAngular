@@ -1,2 +1,1 @@
-# MyAngular
 My Angular project 
